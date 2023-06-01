@@ -1,6 +1,6 @@
 ### Hi, I'm Allison (she/her)!
 
-I am a senior studying applied mathematics at the University of Colorado Boulder. I am interested in using my math and programming knowledge to solve problems in research to improve sustainability, healthcare, social justice and space science. Currently, I'm working at the Laboratory for Atmospheric and Space Physics (LASP) to improve solar flare prediction using deep learning!
+I am a recent applied mathematics Master's graduate at the University of Colorado Boulder. I am interested in using my math and programming knowledge to solve problems in research to improve sustainability, healthcare, social justice and space science. Currently, I'm working with the Space Weather Technology and Research Center (SWxTREC) to improve solar flare prediction using deep learning!
 
 <!--
 **a11isonliu/a11isonliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
